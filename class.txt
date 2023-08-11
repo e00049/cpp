@@ -1,0 +1,6 @@
+class employee {
+
+int a;    # data member
+function add () # member function 
+
+}
