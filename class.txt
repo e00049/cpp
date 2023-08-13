@@ -2,5 +2,14 @@ class employee {
 
 int a;    # data member
 function add () # member function 
+};
 
-}
+# constrcture 
+class MyClass {
+public:
+    // Default constructor (automatically generated)
+    MyClass() {
+        // Constructor code
+    }
+};
+
